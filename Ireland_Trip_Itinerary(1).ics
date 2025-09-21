@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tracy Corpe//Ireland Trip//EN
+BEGIN:VEVENT
+SUMMARY:Flight to Dublin
+DTSTART;TZID=Europe/Dublin:20251025T211500
+LOCATION:Chicago O’Hare International Airport (ORD), 10000 W O’Hare Ave, Chicago, IL 60666, USA
+DESCRIPTION:Depart via Aer Lingus. Booking reference: CSITIG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrival in Dublin
+DTSTART;TZID=Europe/Dublin:20251026T094000
+LOCATION:Dublin Airport, Collinstown, Dublin 15, Ireland
+DESCRIPTION:Arrival in Dublin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Check-in at Temple Bar Inn
+DTSTART;TZID=Europe/Dublin:20251026T150000
+LOCATION:Temple Bar Inn, 40-47 Fleet Street, Temple Bar, Dublin, D02 NX25
+DESCRIPTION:Hotel check-in
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Activities in Dublin
+DTSTART;TZID=Europe/Dublin:20251026T180000
+LOCATION:Dublin
+DESCRIPTION:Visit Trinity College, St. Patrick’s Cathedral, St. Stephen’s Green, Dinner & Live Music
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giant’s Causeway Tour
+DTSTART;TZID=Europe/Dublin:20251027T064500
+LOCATION:Hugh Lane Gallery, Parnell Square N, Dublin 1
+DESCRIPTION:Tour with Finn McCools Tours. Booking reference: 1317388731. Destinations: Dunluce Castle, Giant’s Causeway, Dark Hedges, Belfast
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cliffs of Moher Tour & Birthday
+DTSTART;TZID=Europe/Dublin:20251028T064000
+LOCATION:33 College Green, Dublin
+DESCRIPTION:Tour with Wild Rover Tours. Booking reference: 1317398495 | Phone: +353 1 2845560. Evening: Birthday celebration in Dublin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Check-out from Temple Bar Inn
+DTSTART;TZID=Europe/Dublin:20251029T120000
+LOCATION:Temple Bar Inn, Dublin
+DESCRIPTION:Hotel check-out
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transfer to Derry
+DTSTART;TZID=Europe/Dublin:20251029T133000
+LOCATION:Dublin Airport Terminal 1 Zone 2
+DESCRIPTION:Aircoach to Derry. Booking reference: SFYK-KUUK-OCOA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Check-in at Maldron Hotel Derry
+DTSTART;TZID=Europe/Dublin:20251029T160000
+LOCATION:Butcher Street, Derry, BT48 6HL, UK
+DESCRIPTION:Hotel check-in
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derry Halloween Festival
+DTSTART;TZID=Europe/Dublin:20251030T180000
+DTEND;TZID=Europe/Dublin:20251030T210000
+LOCATION:Derry
+DESCRIPTION:Awakening the Walled City Trail: Illuminated streets, folklore, pyrotechnics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derry Halloween Finale
+DTSTART;TZID=Europe/Dublin:20251031T190000
+LOCATION:City Centre Derry
+DESCRIPTION:Carnival Parade & Fireworks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Check-out from Maldron Hotel Derry
+DTSTART;TZID=Europe/Dublin:20251101T070000
+LOCATION:Maldron Hotel Derry
+DESCRIPTION:Hotel check-out
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transfer to Dublin Airport
+DTSTART;TZID=Europe/Dublin:20251101T085500
+LOCATION:Dublin Airport
+DESCRIPTION:Aircoach to Dublin Airport. Booking: KBZI-YYOY-QMGE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malahide Castle Tour
+DTSTART;TZID=Europe/Dublin:20251101T153000
+LOCATION:Malahide Castle, Co. Dublin
+DESCRIPTION:Castle tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Check-in Grand Hotel Malahide
+DTSTART;TZID=Europe/Dublin:20251101T173000
+LOCATION:Grove Rd, Malahide, Co. Dublin, K36 XT65
+DESCRIPTION:Hotel check-in. Confirmation: 415823534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return Flight to Chicago
+DTSTART;TZID=Europe/Dublin:20251102T133000
+LOCATION:Dublin Airport
+DESCRIPTION:Flight departs to Chicago
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrival in Chicago
+DTSTART;TZID=Europe/Dublin:20251102T160000
+LOCATION:Chicago O’Hare International Airport
+DESCRIPTION:Arrival in Chicago
+END:VEVENT
+END:VCALENDAR
